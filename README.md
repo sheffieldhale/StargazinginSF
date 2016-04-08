@@ -1,5 +1,5 @@
 # Stargazing Map
-Shows the best stargazing campsites and events in the San Francisco Bay Area. The map also has a layer of light pollution that can be toggled on or off to show the darkest skies throughout the bay.
+Shows the best stargazing campsites and events in the San Francisco Bay Area. [The map] (http://www.sfnaturemaps.org/stargazing.html) also has a layer of light pollution that can be toggled on or off to show the darkest skies throughout the bay.
 
 See the final map [here] (http://www.sfnaturemaps.org/stargazing.html).
 
