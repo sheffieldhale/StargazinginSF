@@ -63,8 +63,12 @@
 </div>
 
 <script>
+//Mapbox Data
 L.mapbox.accessToken = 'pk.eyJ1Ijoic2hlZmZpZWxkaGFsZSIsImEiOiJvWU4xOFMwIn0.rU9vYzMsruo3JSJPQ92LaQ';
 var map = L.mapbox.map('map','sheffieldhale.l2jbiade').setView([37.93, -122.36], 9);
+	
+	
+
 // This light pollution layer is NOT open-source and requires permission in order to use!
 var lightpollution = L.tileLayer.wms('http://www.lightpollutionmap.info/geoserver/gwc/service/wms', {
       format: 'image/png',
