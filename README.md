@@ -1,6 +1,6 @@
 # Stargazing in the San Francisco Bay Area
 
-Under construction: migrating to Mapbox GL JS
+Under construction: migrating to Mapbox GL JS: https://docs.mapbox.com/mapbox-gl-js/api/?size=n_10_n
 
 Original: https://sfnaturemaps.github.io/StargazinginSF/
 
