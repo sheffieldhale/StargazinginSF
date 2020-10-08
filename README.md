@@ -1,6 +1,8 @@
 # Stargazing in the San Francisco Bay Area
 
-https://sfnaturemaps.github.io/StargazinginSF/
+
+
+Original: https://sfnaturemaps.github.io/StargazinginSF/
 
 For version with music playlist, see: https://musicmaps.github.io/StargazinginSF/
 
